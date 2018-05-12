@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/485
     wikipedia: http://en.wikipedia.org/wiki/Charles_Darwin
 description: Transcription of 1871 edition.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36520#The-Descent-of-Man-and-Selection-in-Relation-to-SexVolume-II--1st-Edition-
 gutenberg_issued: '2011-06-25'
 gutenberg_type: Text
 identifiers:
